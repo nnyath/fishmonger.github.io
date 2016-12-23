@@ -2,7 +2,9 @@
   "name": "fishmonger.github.io",
   "version": "1.0.0",
   "description": "a personal website for fishmonger",
-  "dependencies": {},
+  "dependencies": {
+    "material-design-lite": "^1.3.0"
+  },
   "devDependencies": {
     "browser-sync": "^2.11.2",
     "gulp": "^3.9.1",
